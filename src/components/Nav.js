@@ -36,7 +36,7 @@ export default function Nav() {
   return (
     <StyledNav>
       <Link to="/">
-        <h4 style={{ color: "red", textTransform: "uppercase" }}>
+        <h4 style={{ color: "red", textTransform: "uppercase", textShadow:" 1px 1px white"}}>
           Lambda Eats
         </h4>
       </Link>
